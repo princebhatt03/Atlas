@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 const uri =
   'mongodb+srv://princebhatt316:DnFqDYxei3ai8X3g@cluster0.vdwbeya.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 
+  // hggjhjhkjkjk
+
 mongoose
   .connect(uri)
   .then(() => {
